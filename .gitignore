@@ -1,6 +1,8 @@
 *-backups
+*-cache
+*-table
+*.bak
 *.kicad_prl
 *.lck
 \#auto_saved_files#
 _autosave-*
-fp-*
