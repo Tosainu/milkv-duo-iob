@@ -4901,7 +4901,7 @@
 			(justify right)
 		)
 	)
-	(gr_text "Milk-V Duo IO Board Rev.A\n2024-09-21 @myon___"
+	(gr_text "Milk-V Duo IO Board Rev.B\n2024-09-24 @myon___"
 		(at 129.54 102.87 0)
 		(layer "F.SilkS")
 		(uuid "dae77ade-7695-4ef4-a941-a35c1cfcb912")
