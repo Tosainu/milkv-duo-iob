@@ -1,6 +1,5 @@
 *-backups
 *-cache
-*-table
 *.bak
 *.kicad_prl
 *.lck
